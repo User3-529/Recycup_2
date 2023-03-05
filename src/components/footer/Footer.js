@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "./Footer.module.css";
 import Link from "next/link";
-import Carbonops from "/public/images/homePage/Carbonops.png";
+import Carbonops from "/public/images/homePage/RECYCUP.png";
 
 export default function Footer() {
   return (
