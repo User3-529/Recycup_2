@@ -8,7 +8,7 @@ import ind from "/public/images/homePage/ind.png";
 import graph from "/public/images/homePage/graph.png";
 import org1 from "/public/images/homePage/org1.png";
 import org2 from "/public/images/homePage/org2.png";
-//import s from "../../../pages/carbonCalculator"
+
 
 export default function Navbar() {
   return (
@@ -116,48 +116,6 @@ export default function Navbar() {
           </div>
         </div>
         {/* ****************************************** */}
-
-        {/* THE TOP ORGANISATIONS PART  */}
-        <div className={styles.topOrgs}>
-          <p className={styles.textHeading}>
-            These are the featured top two <strong> organisations </strong>
-            <br />
-            which performed best in the last contest.
-          </p>
-          <div className={styles.container}>
-            <div className={styles.gridItemLeft}>
-              <Image
-                src={org1}
-                placeholder="blur"
-                alt="Home Image"
-                width={200}
-                height={200}
-              />
-              <br />
-              <p>
-                This is a great platform to buy raw materials/ products and can host many events about enviromenral awareness.
-                 <br />
-                -The Green Builders
-              </p>
-            </div>
-
-            <div className={styles.gridItemRight}>
-              <Image
-                src={org2}
-                placeholder="blur"
-                alt="Home Image"
-                width={200}
-                height={200}
-              />
-              <br />
-              <p>
-              Absolutely pleased with the features of this platform and we really enjoyed while participating in the events.
-                 <br />
-                -The Eco Earth 
-              </p>
-            </div>
-          </div>
-        </div>
         {/* ******************************************* */}
       </div>
     </>
