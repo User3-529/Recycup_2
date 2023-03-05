@@ -1,6 +1,5 @@
 import "../styles/globals.css";
 import logger from "../helpers/logger";
-import "../src/components/FAQS/faqs.css";
 import { SessionProvider } from "next-auth/react"
 
 function MyApp({ Component, pageProps }) {
