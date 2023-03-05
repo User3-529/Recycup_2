@@ -1,17 +1,8 @@
 
-# Carbonops : Environmental Awareness Project
+# Environmental Awareness Project
 
- <font size=1> A 💻 web application for creating🌲environmental awareness among 🤝‍🧑 people. </font>
+ <font size=1> A 💻 web application for creating environmental awareness among 🤝‍🧑 people. </font>
  
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/gdscnitp/Environmental-Awareness-App?logo=github&style=for-the-badge)](https://github.com/SrijanShovit/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/gdscnitp/Environmental-Awareness-App?style=for-the-badge&logo=git)](https://github.com/SrijanShovit/) 
-[![GitHub stars](https://img.shields.io/github/stars/gdscnitp/Environmental-Awareness-App?style=for-the-badge)](https://github.com/gdscnitp/Environmental-Awareness-App/stargazers) 
-[![My stars](https://img.shields.io/github/stars/SrijanShovit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/gdscnitp/Environmental-Awareness-App/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/gdscnitp/Environmental-Awareness-App?style=for-the-badge&logo=git)](https://github.com/gdscnitp/Environmental-Awareness-App/network)
-[![Languages](https://img.shields.io/github/languages/count/gdscnitp/Environmental-Awareness-App?style=for-the-badge)](https://github.com/gdscnitp/Environmental-Awareness-App)
-[![Top](https://img.shields.io/github/languages/top/gdscnitp/Environmental-Awareness-App?style=for-the-badge&label=Top%20Languages)](https://github.com/gdscnitp/Environmental-Awareness-App)
-[![Issues](https://img.shields.io/github/issues/gdscnitp/Environmental-Awareness-App?style=for-the-badge&label=Issues)](https://github.com/gdscnitp/Environmental-Awareness-App)
-[![Watchers](	https://img.shields.io/github/watchers/gdscnitp/Environmental-Awareness-App?label=Watch&style=for-the-badge)](https://github.com/gdscnitp/Environmental-Awareness-App/) 
 
 
 ## Problems Addressed:
@@ -43,25 +34,12 @@ The site will have two portals:
 - People will get to know about various incentives that are being taken up by those companies and this will advertise environmentally sustainable products and will bring off the objective of the app.
 - Will introduce a sense of support and appreciation to those working to reduce the impact of human usage on the environment.
 
-
-Wanna know how the flow of all records is being planned in the app?🤔
-Do have a look below
-## Database ER diagram:
-<img src="https://github.com/gdscnitp/Environmental-Awareness-App/blob/main/Env-awareness.drawio.png" alt="ER" width="1100" height="700"/>
-
-
 ## Target audiance: 
 All
 
 ## Project constraints:
 - Requires basic knowledge of environmental issues and carbon footprint.
 - Requires the will and efforts of the users.
-
-
-## Languages and Tools:
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
-
-
 
 ## Setting up the project:
 
@@ -72,15 +50,9 @@ All
 3. Install node dependencies 
    - `npm install`
    
-4. Set up a `.env` file 
-   - Add relevant credentials in the .env file with the help of .env.example file.
+4. Start the server: `npm run dev`
 
-5. `Allow access to less secure apps on the Mail ID`
-   - You need to add in the .env file from here: [Nodemailer](https://nodemailer.com/usage/using-gmail/)
-
-6. Start the server: `npm run dev`
-
-7. Open http://localhost:3000 with your browser to see the app up and running 🎉🥳🎊.
+5. Open http://localhost:3000 with your browser to see the app up and running 🎉🥳🎊.
 
 
 Having issues in understanding the codebase?
