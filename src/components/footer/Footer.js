@@ -13,7 +13,7 @@ export default function Footer() {
        <Image
        src={Carbonops}
                   alt="Social icons"
-                  height={60}
+                  height={100}
                   width={280}
       />
        </Link>
