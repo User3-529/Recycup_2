@@ -94,16 +94,6 @@ Then head over to documentation, give yourself some time and please comeback to 
 
 [Next.js Github repository](https://github.com/vercel/next.js/)
 
-## Our budding contributors:
-
-<a href="https://github.com/gdscnitp/Environmental-Awareness-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gdscnitp/Environmental-Awareness-App" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
- 
-
-<h4>If you 💓 this, do smash the ⭐ button!!</h4>
 
 Thanks for visiting!!
 
