@@ -21,38 +21,7 @@ export default function Footer() {
         <div className={`${styles.footerAbout}`}>
           <Link href="./aboutus"> ABOUT US </Link>
         </div>
-        <div className={`${styles.footerContact}`}>
-          <Link href="/Feedback"> CONTACT US</Link>
-        </div>
-        <div className={`${styles.TandC}`}>Terms & Conditions</div>
-        <div className={`${styles.copyRights}`}>Copyrights &copy; Env_App</div>
-        <div className={`${styles.socialMedia}`}>
- 
-              <div className={styles.socialIcons}>
-                <Image
-                  src={`/images/homePage/Google.png`}
-                  alt="Social icons"
-                  height={40}
-                  width={40}
-                />
-              </div>
-              <div  className={styles.socialIcons}>
-                <Image
-                  src={`/images/homePage/Facebook.png`}
-                  alt="Social icons"
-                  height={40}
-                  width={40}
-                />
-              </div>
-              <div className={styles.socialIcons}>
-                <Image
-                  src={`/images/homePage/Twitter.png`}
-                  alt="Social icons"
-                  height={40}
-                  width={40}
-                />
-              </div>
-        </div>
+
       </div>
     </>
   );
