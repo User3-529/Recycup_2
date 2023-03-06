@@ -1,5 +1,5 @@
 
-# Environmental Awareness Project
+# Recycup
 
  <font size=1> A 💻 web application for creating environmental awareness among 🤝‍🧑 people. </font>
  
@@ -54,11 +54,6 @@ All
 
 5. Open http://localhost:3000 with your browser to see the app up and running 🎉🥳🎊.
 
-
-Having issues in understanding the codebase?
- 
-Then head over to documentation, give yourself some time and please comeback to contribute.
-## Documentation:
 
 [Next.js](https://nextjs.org/docs)
 
