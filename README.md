@@ -1,5 +1,5 @@
 
-# Recycupp
+# Recycup
 
  <font size=1> A 💻 web application for creating environmental awareness among 🤝‍🧑 people. </font>
  
