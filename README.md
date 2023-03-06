@@ -43,9 +43,9 @@ All
 
 ## Setting up the project:
 
-1. `git clone https://github.com/gdscnitp/Environmental-Awareness-App.git` 
+1. `git clone https://github.com/User3-529/Recycup_2.git` 
 
-2. `cd ./Environmental-Awareness-App`
+2. `cd ./Recycup_2`
 
 3. Install node dependencies 
    - `npm install`
