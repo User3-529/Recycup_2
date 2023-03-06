@@ -52,16 +52,4 @@ All
    
 4. Start the server: `npm run dev`
 
-5. Open http://localhost:3000 with your browser to see the app up and running 🎉🥳🎊.
-
-
-[Next.js](https://nextjs.org/docs)
-
-[NextAuth.js](https://next-auth.js.org/getting-started/introduction)
-
-[Next.js Github repository](https://github.com/vercel/next.js/)
-
-
-Thanks for visiting!!
-
-
+5. Open http://localhost:3000 with your browser to see the app up and running.
